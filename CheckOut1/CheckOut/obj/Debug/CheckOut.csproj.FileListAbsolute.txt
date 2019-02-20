@@ -1,0 +1,14 @@
+C:\Users\johnb\source\repos\CheckOut\CheckOut\bin\Debug\CheckOut.exe.config
+C:\Users\johnb\source\repos\CheckOut\CheckOut\bin\Debug\CheckOut.exe
+C:\Users\johnb\source\repos\CheckOut\CheckOut\bin\Debug\CheckOut.pdb
+C:\Users\johnb\source\repos\CheckOut\CheckOut\obj\Debug\CheckOut.csprojAssemblyReference.cache
+C:\Users\johnb\source\repos\CheckOut\CheckOut\obj\Debug\CheckOut.csproj.CoreCompileInputs.cache
+C:\Users\johnb\source\repos\CheckOut\CheckOut\obj\Debug\CheckOut.exe
+C:\Users\johnb\source\repos\CheckOut\CheckOut\obj\Debug\CheckOut.pdb
+C:\Users\johnb\source\repos\CheckOut1\CheckOut\bin\Debug\CheckOut.exe.config
+C:\Users\johnb\source\repos\CheckOut1\CheckOut\bin\Debug\CheckOut.exe
+C:\Users\johnb\source\repos\CheckOut1\CheckOut\bin\Debug\CheckOut.pdb
+C:\Users\johnb\source\repos\CheckOut1\CheckOut\obj\Debug\CheckOut.csprojAssemblyReference.cache
+C:\Users\johnb\source\repos\CheckOut1\CheckOut\obj\Debug\CheckOut.csproj.CoreCompileInputs.cache
+C:\Users\johnb\source\repos\CheckOut1\CheckOut\obj\Debug\CheckOut.exe
+C:\Users\johnb\source\repos\CheckOut1\CheckOut\obj\Debug\CheckOut.pdb
